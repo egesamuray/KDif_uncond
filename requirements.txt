@@ -1,0 +1,14 @@
+numpy==1.23.5
+accelerate==0.29.3
+clean-fid==0.1.35
+clip-anytorch==2.5.2
+einops==0.8.0
+jsonmerge==1.9.3
+Pillow==10.4.0
+safetensors==0.4.3
+scipy==1.13.0
+torchdiffeq==0.2.3
+torchsde==0.2.6
+tqdm==4.66.4
+dctorch==0.1.4
+kornia==0.7.2
